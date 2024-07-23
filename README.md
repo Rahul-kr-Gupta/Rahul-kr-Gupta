@@ -120,3 +120,14 @@ With a passion for leveraging technology to solve complex problems, I am committ
 
 
 <br />
+
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
