@@ -115,14 +115,7 @@ With a passion for leveraging technology to solve complex problems, I am committ
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Rahul-kr-Gupta&&style=flat-square)  
   
-
 <br/>  
-
-
-<br />
-
-
-
 
 ###
 
