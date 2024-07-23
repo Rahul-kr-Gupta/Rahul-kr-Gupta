@@ -128,6 +128,6 @@ With a passion for leveraging technology to solve complex problems, I am committ
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rahul-kr-Gupta/Rahul-kr-Gupta/output/snake.svg" alt="Snake animation" />
 
 ###
