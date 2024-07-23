@@ -16,7 +16,7 @@
 <a href="https://gitlab.com/Rahul-kr-Gupta" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/rahulkeshav" target="_blank">
+<a href="https://www.youtube.com/@RahulKeshav" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://rahulkeshav7.medium.com/" target="_blank">
